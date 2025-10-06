@@ -58,7 +58,7 @@ Production-ready visual programming scripts for Revit automation
 
 ### 📫 Let's Connect
 
-- 🌐 Portfolio: [[Portfolio](https://hossamsabrydev.github.io/Portfolio/)]
+- 🌐 Portfolio: [Portfolio](https://hossamsabrydev.github.io/Portfolio/)
 - 📧 Email: e.hossamsabry@gmail.com
 - 💻 GitHub: [@HossamSabryDev](https://github.com/HossamSabryDev)
 

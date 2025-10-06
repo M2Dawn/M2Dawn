@@ -6,10 +6,10 @@ I develop custom tools that help BIM teams work more efficiently - from Revit AP
 
 ## Technical Focus
 
-- **Revit API Development** (C#, .NET)
-- **Visual Programming** (Dynamo, Python)
-- **Data Visualization** (React, D3.js)
-- **BIM Coordination** (Navisworks, Clash Detection)
+- **Revit API Development** 
+- **Visual Programming** 
+- **Data Visualization** 
+- **BIM Coordination** 
 
 ## Featured Work
 

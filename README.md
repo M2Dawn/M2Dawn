@@ -1,6 +1,6 @@
 # Hossam Sabry
 
-BIM Developer construction automation and digital workflows.
+BIM Developer in construction automation and digital workflows.
 
 I develop custom tools that help BIM teams work more efficiently - from Revit API plugins to web-based coordination dashboards. My background is in civil engineering, which helps me build solutions that actually work on real projects.
 
